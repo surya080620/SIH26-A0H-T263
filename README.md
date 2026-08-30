@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-TXXX
 ### Team Details
-#### *Byte Busters*
+#### Team Name : *Byte Busters*
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
