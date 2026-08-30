@@ -31,10 +31,10 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:*SIH26107*
+* **Problem Statement Title:*Al-powered Intelligent Assistant for Indian Standards and BIS Services for Industries and Consumers*
+* **Theme / Category:*Smart Automation*
+* **Ministry / Organization:*Ministry of Consumer Affairs, Food & Public Distribution*
 
 #### PS#2
 
