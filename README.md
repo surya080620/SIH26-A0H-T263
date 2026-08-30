@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |Bindu K R            |Assistant Professor    |CSE                      |j_bindu@cb.amrita.edu     |
 | Industry       |                     |                       |                         |                          |
 
 -----
