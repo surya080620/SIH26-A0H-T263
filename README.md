@@ -7,16 +7,16 @@
 
 ## SIH26-A0H-TXXX
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<Byte Busters>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |Surya Narayanan T        |CB.SC.U4CSE24453        |Male             |B.Tech CSE                       |  
+|    Member 2     |Kesikasri                |CB.SC.U4CSE24023        |Female           |B.Tech CSE                       |  
+|    Member 3     |Shasmitha                |CB.SC.U4CSE24055        |Female           |B.Tech CSE                       |  
+|    Member 4     |Vedhant                  |CB.SC.U4CSE24458        |Male             |B.Tech CSE                       |   
+|    Member 5     |Ananthvarshan            |CB.SC.U4CSE24405        |Male             |B.Tech CSE                       |  
+|    Member 6     |Rohan C                  |CB.SC.U4CSE24441        |Male             |B.Tech CSE                       |   
 
 #### Mentor Details
 
