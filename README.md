@@ -42,3 +42,6 @@
 * **Problem Statement Title:* IP-SAKTI Sahayak a multilingual, RAG-based (source-cited) AI assistant for Intellectual Property and regulatory guidance in Ayurveda, across national and international regimes.*
 * **Theme / Category:* MedTech / BioTech / HealthTech*
 * **Ministry / Organization:* Ministry of Ayush*
+
+### Youtube Presentation Link:
+Link : https://youtu.be/CJqcXIJfOJ8?si=u9jdb_JWo5DoflTY
