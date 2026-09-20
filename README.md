@@ -9,14 +9,14 @@
 ### Team Details
 #### Team Name : *Byte Busters*
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |Surya Narayanan T        |CB.SC.U4CSE24453        |Male             |B.Tech CSE                       |  
-|    Member 2     |Kesikasri                |CB.SC.U4CSE24023        |Female           |B.Tech CSE                       |  
-|    Member 3     |Shasmitha V              |CB.SC.U4CSE24055        |Female           |B.Tech CSE                       |  
-|    Member 4     |Vedhant M R              |CB.SC.U4CSE24458        |Male             |B.Tech CSE                       |   
-|    Member 5     |Ananthvarshan K          |CB.SC.U4CSE24405        |Male             |B.Tech CSE                       |  
-|    Member 6     |Rohan C                  |CB.SC.U4CSE24441        |Male             |B.Tech CSE                       |   
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | Caste Category | Disability Details |
+|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:--------------:|:------------------:| 
+|   Team Leader   |Surya Narayanan T        |CB.SC.U4CSE24453        |Male             |B.Tech CSE                       | BC             | None               |
+|    Member 2     |Kesikasri                |CB.SC.U4CSE24023        |Female           |B.Tech CSE                       | BC             | None               |
+|    Member 3     |Shasmitha V              |CB.SC.U4CSE24055        |Female           |B.Tech CSE                       | BC             | None               |
+|    Member 4     |Vedhant M R              |CB.SC.U4CSE24458        |Male             |B.Tech CSE                       | BC             | None               | 
+|    Member 5     |Ananthvarshan K          |CB.SC.U4CSE24405        |Male             |B.Tech CSE                       | BC             | None               |
+|    Member 6     |Rohan C                  |CB.SC.U4CSE24441        |Male             |B.Tech CSE                       | BC             | None               |
 
 #### Mentor Details
 
